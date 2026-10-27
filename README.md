@@ -4,6 +4,12 @@
 >
 > 🔒 所有处理 **100% 在你自己的浏览器里完成**，文件不上传任何服务器。免费、不限次数、无需注册。
 
+[![Deploy to GitHub Pages](https://github.com/old-hand1989/pdf-baobaodai/actions/workflows/deploy.yml/badge.svg)](https://github.com/old-hand1989/pdf-baobaodai/actions/workflows/deploy.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/old-hand1989/pdf-baobaodai/pulls)
+
+**▶ 在线体验：<https://old-hand1989.github.io/pdf-baobaodai/>**
+
 ![PDF 百宝袋首页](docs/screenshot-home.png)
 
 ---
@@ -118,6 +124,11 @@ Chrome / Edge / Firefox / Safari 的近两年版本均可。移动端 Safari 与
 
 - 作品名称：PDF 百宝袋
 - 作品宣言：这个 1024，我做了一个把 OCR、批量水印、手写签名、解锁这些「付费功能」全部免费的 PDF 工具箱，让每个打工人不用上传隐私文件、不用开会员，在浏览器里就能搞定所有 PDF 难题。
+- 仓库：<https://github.com/old-hand1989/pdf-baobaodai>
+
+## 致谢
+
+本项目由 [WorkBuddy](https://www.workbuddy.cn) 协助开发。
 
 ## 许可
 
